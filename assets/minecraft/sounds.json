@@ -1,0 +1,43 @@
+{
+	"entity.villager.ambient": {
+	  "sounds": [
+	    {
+		"name": "mobs/villager/yes1"
+	    },
+	    {
+		"name": "mobs/villager/yes2"
+	    },
+	    {
+		"name": "mobs/villager/yes3"
+	    }
+	],
+	"subtitle": "Villager agrees"
+     }
+	"block.smithing_table.use": {
+		"sounds": [
+		{
+			"name": "block/smithing_table/smithing_table1"
+		},
+		{
+			"name": "block/smithing_table/smithing_table2"
+		},
+		{
+			"name": "block/smithing_table/smithing_table3"
+		}
+		]
+	}
+	"item.armor.equip_netherite": {
+		"sounds": [
+		{
+			"name": "item/armor/equip_netherite"
+		}
+		]
+	}
+	"item.totem.use": {
+		"sounds" [
+		{
+			"name": "item/totem/use"
+		}
+		]
+	}
+}

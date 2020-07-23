@@ -1,0 +1,30 @@
+earth's resource pack
+----------------------
+current version: v1.1
+----------------------
+last updated: 2020/07/23
+----------------------
+changelog
+
+v1.1:
+	changed all door textures to be see through (as in, glass center)
+	added a ton of new things from vanilla tweaks, such as:
+		transparent UI
+		rainbow experience bar
+		easier-to-see wither hearts
+		unobtrusive scaffolding
+		full-grown crop alert
+		ore borders
+		mining progress bar changed to be around the block
+		directional hoppers
+		no pumpkin overlay
+		lower fire
+	added this file
+----------------------
+planned changes:
+
+v1.1.1:
+	add the changed door models to reflect the new door texture
+----------------------
+© earth industries 2020
+(totally real copyright)
