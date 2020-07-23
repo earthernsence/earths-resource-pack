@@ -26,5 +26,25 @@ planned changes:
 v1.1.1:
 	add the changed door models to reflect the new door texture
 ----------------------
+how to use:
+	using command prompt (my preferred method):
+		open your command prompt
+		type in cd desktop
+		copy-paste in git clone https://github.com/earthernsence/earths-resource-pack.git
+		let git do it's thing
+		open minecraft
+		open the resource pack folder through settings
+		move the pack folder from desktop into the resource pack folder
+		restart minecraft
+		add it into your game by going back to settings
+	option 2:
+		download the zip by clicking on the green "Code" button and then clicking download zip
+		unzip the folder
+		open minecraft
+		open the resource pack folder through settings
+		move the pack folder from desktop into the resource pack folder
+		restart minecraft
+		add it into your game by going back to settings
+----------------------		
 © earth industries 2020
 (totally real copyright)
