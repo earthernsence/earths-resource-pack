@@ -1,10 +1,21 @@
 earth's resource pack
 ----------------------
-current version: v1.1.1
+current version: v1.2
 ----------------------
-last updated: 2020/07/23
+last updated: 2020/07/25
 ----------------------
 changelog
+
+v1.2:
+	i've taken more things out of vanilla tweaks' playbook, with things like
+		shorter grass/tall grass
+		connected iron blocks (real seamless!)
+		made fire sounds quieter
+		added a brewing guide
+		changed enchant glint to be more sleek
+		numbered the hotbar
+	changed the bedrock texture to be darker stone (looks cleaner, trust me)
+	remember, if you have any suggestions please create a github issue
 
 v1.1.1:
 	fixed an issue where the door texture (as in, the item), did not reflect the changes to the door 	texture (as in, the block)
@@ -26,8 +37,8 @@ v1.1:
 ----------------------
 planned changes:
 
-v1.2:
-	nothing, currently!
+v1.???:
+	no idea
 ----------------------
 how to use:
 	using command prompt (my preferred method):
@@ -49,5 +60,19 @@ how to use:
 		restart minecraft
 		add it into your game by going back to settings
 ----------------------		
+to update:
+	using command prompt (works if you used command prompt last time):
+		in this order:
+			cd AppData
+			cd Roaming
+			cd .minecraft
+			cd resourcepacks
+			cd [whatever you named the pack in the folder, probably earths-resource-pack]
+		then:
+			git pull master
+		let git do it's thing and then you're done!
+	option 2:
+		follow the option 2 from last time
+----------------------
 © earth industries 2020
 (totally real copyright)
