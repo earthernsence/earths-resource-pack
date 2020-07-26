@@ -18,7 +18,7 @@ v1.2:
 	remember, if you have any suggestions please create a github issue
 
 v1.1.1:
-	fixed an issue where the door texture (as in, the item), did not reflect the changes to the door 	texture (as in, the block)
+	fixed an issue where the door texture (as in, the item), did not reflect the changes to the door texture (as in, the block)
 
 v1.1:
 	changed all door textures to be see through (as in, glass center)
