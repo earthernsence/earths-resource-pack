@@ -1,0 +1,38 @@
+aqua_affinity X
+bane_of_arthropods X
+blast_protection
+channeling X
+binding_curse X
+vanishing_curse X
+depth_strider
+efficiency X
+feather_falling X
+fire_aspect
+fire_protection X
+flame
+fortune X
+frost_walker X
+impaling
+infinity X
+knockback X
+looting X
+loyalty
+luck_of_the_sea X
+lure X
+mending X
+multishot X
+piercing X
+power X
+projectile_protection X
+protection X
+punch X
+quick_charge X
+respiration X
+riptide X
+sharpness X
+silk_touch X
+smite X
+soul_speed X
+sweeping X
+thorns X
+unbreaking X
