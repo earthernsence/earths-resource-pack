@@ -1,6 +1,6 @@
 {
 	"credit": "Created by Stridey",
-	"ambientocclusion": false,
+	"ambientocclusion": true,
 	"textures": {
 		"alert": "block/alert",
 		"particle": "#stem"
@@ -34,9 +34,10 @@
 		},
 		{
 			"name": "alert",
-			"from": [7, 18, 7],
-			"to": [9, 20, 9],
-			"rotation": {"angle": 0, "axis": "y", "origin": [15, 26, 15]},
+			"from": [-9, 20, 7],
+			"to": [-7, 22, 9],
+			"shade": false,
+			"rotation": {"angle": 0, "axis": "y", "origin": [-1, 28, 15]},
 			"faces": {
 				"north": {"uv": [2, 0, 4, 2], "texture": "#alert"},
 				"east": {"uv": [2, 0, 4, 2], "texture": "#alert"},
@@ -48,9 +49,10 @@
 		},
 		{
 			"name": "alert",
-			"from": [7, 19.001, 7],
-			"to": [9, 21.001, 9],
-			"rotation": {"angle": 0, "axis": "y", "origin": [15, 27, 15]},
+			"from": [-9, 21.001, 7],
+			"to": [-7, 23.001, 9],
+			"shade": false,
+			"rotation": {"angle": 0, "axis": "y", "origin": [-1, 29, 15]},
 			"faces": {
 				"north": {"uv": [6, 0, 8, 2], "texture": "#alert"},
 				"east": {"uv": [6, 0, 8, 2], "texture": "#alert"},
@@ -62,9 +64,10 @@
 		},
 		{
 			"name": "alert",
-			"from": [7, 21, 7],
-			"to": [9, 26, 9],
-			"rotation": {"angle": 0, "axis": "y", "origin": [15, 29, 15]},
+			"from": [-9, 23, 7],
+			"to": [-7, 28, 9],
+			"shade": false,
+			"rotation": {"angle": 0, "axis": "y", "origin": [-1, 31, 15]},
 			"faces": {
 				"north": {"uv": [0, 0, 2, 5], "texture": "#alert"},
 				"east": {"uv": [0, 0, 2, 5], "texture": "#alert"},
@@ -76,9 +79,10 @@
 		},
 		{
 			"name": "alert",
-			"from": [7, 22, 7],
-			"to": [9, 27, 9],
-			"rotation": {"angle": 0, "axis": "y", "origin": [15, 30, 15]},
+			"from": [-9, 24, 7],
+			"to": [-7, 29, 9],
+			"shade": false,
+			"rotation": {"angle": 0, "axis": "y", "origin": [-1, 32, 15]},
 			"faces": {
 				"north": {"uv": [4, 0, 6, 5], "texture": "#alert"},
 				"east": {"uv": [4, 0, 6, 5], "texture": "#alert"},
